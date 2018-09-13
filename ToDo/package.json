@@ -1,0 +1,14 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "fz-react-cli start"
+  },
+  "author": "Raavanan",
+  "license": "ISC",
+  "dependencies": {
+    "fz-react-cli": "0.0.3-beta.121"
+  }
+}

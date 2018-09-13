@@ -1,0 +1,11 @@
+.plusIcon
+{
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  color: white;
+  text-align: center;
+  background-color: black;
+  cursor: pointer;
+  font-weight: bold;
+}

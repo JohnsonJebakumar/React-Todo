@@ -1,0 +1,8 @@
+.boardContainer
+{
+  float:left;
+  width:fit-content;
+  padding:25px;
+  background-color:aqua;
+  margin-left: 15px
+}
